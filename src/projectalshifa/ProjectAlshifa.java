@@ -15,6 +15,9 @@ public class ProjectAlshifa {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        String name = "Alshifa";
+        System.out.printf("My name is: ", name);
     }
     
 }
