@@ -18,6 +18,12 @@ public class ProjectAlshifa {
         
         String name = "Alshifa";
         System.out.printf("My name is: ", name);
+        
+        int num1 = 10;
+        int num2 = 3;
+        int result = num1 + num2;
+        System.out.printf("The sum is: ", result);
+        
     }
     
 }
